@@ -1,6 +1,6 @@
 # JSU-2025-Algorithm-Preparation-Team-lhx
 ## Here is my daily training assignment repository
---
+---
 ### 任务清单:
 >My Task In Grade 1
 
@@ -13,7 +13,7 @@
 -    ***大作业***
 - [ ] 装甲板识别
 
---
+---
 
 ### 个人简介:
 >Self Introduction
