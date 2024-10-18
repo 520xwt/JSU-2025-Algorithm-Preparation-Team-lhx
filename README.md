@@ -1,7 +1,7 @@
 # JSU-2025-Algorithm-Preparation-Team-lhx
-##Here is my daily training assignment repository
+## Here is my daily training assignment repository
 --
-###任务清单:
+### 任务清单:
 >My Task In Grade 1
 
 - [X] 基本技能教学
@@ -15,7 +15,7 @@
 
 --
 
-###个人简介:
+### 个人简介:
 >Self Introduction
 
 |姓名|性别|年龄|大学|性格|废话|
