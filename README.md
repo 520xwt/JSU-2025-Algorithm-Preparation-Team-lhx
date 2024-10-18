@@ -11,8 +11,7 @@
 []()
 ---
 ### 任务清单
-> [!note]+ My Task In Grade 1
-
+>[!note]+ My Task In Grade 1
 - [X] 基本技能教学
 - [ ] c++学习
 - [X] python学习
