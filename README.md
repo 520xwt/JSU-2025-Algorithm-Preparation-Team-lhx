@@ -24,5 +24,4 @@
 
 >我的B站账号:
 
-[网课划水真菌][id1]
-[id1]:https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0
+[网课划水真菌](https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0)
