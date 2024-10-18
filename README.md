@@ -4,9 +4,9 @@
 ###任务清单:
 >My Task In Grade 1
 
-- [ ] 基本技能教学
+- [X] 基本技能教学
 - [ ] c++学习
-- [ ] python学习
+- [X] python学习
 - opencv学习
 - [ ] opencv1
 - [ ] opencv-2
