@@ -33,8 +33,6 @@
 
 >我的各个平台账号:
 
-Bilibili:[网课划水真菌](https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0)，没啥好看的视频
+Bilibili:[网课划水真菌](https://space.bilibili.com/645941441?spm_id_from=333.1007.0.0)，没啥好看的视频 :smile:
 
 Tiktok:[KokoCola](https://www.douyin.com/user/self?from_tab_name=main),最近发了一些自己唱的歌,自我感觉良好,求赞❤❤❤
- 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=605822152&bvid=BV1V84y167SW&cid=910975869&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
