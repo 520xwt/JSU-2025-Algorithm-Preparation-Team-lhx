@@ -6,7 +6,7 @@
 
 - [X] 基本技能教学
 - [ ] c++学习
-- [ ] python学习
+- [X] python学习
 -    ***opencv学习***
 - [ ] opencv-1
 - [ ] opencv-2
