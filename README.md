@@ -3,11 +3,11 @@
 --
 ###任务清单:
 >My Task In Grade 1
-[ ] 基本技能教学
-[ ] c++学习
-[ ] python学习
+-[ ] 基本技能教学
+-[ ] c++学习
+-[ ] python学习
 - opencv学习
-[ ] opencv1
-[ ] opencv-2
+-[ ] opencv1
+-[ ] opencv-2
 - 大作业
-[ ] 装甲板识别
+-[ ] 装甲板识别
