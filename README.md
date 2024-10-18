@@ -11,9 +11,8 @@
 []()
 ---
 ### 任务清单
->[!note] My Task In Grade 1
-> 12321
-> 321123
+>My Task In Grade 1
+
 - [X] 基本技能教学
 - [ ] c++学习
 - [X] python学习
@@ -38,3 +37,4 @@ Bilibili:[网课划水真菌](https://space.bilibili.com/645941441?spm_id_from=3
 
 Tiktok:[KokoCola](https://www.douyin.com/user/self?from_tab_name=main),最近发了一些自己唱的歌,自我感觉良好,求赞❤❤❤
  
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=605822152&bvid=BV1V84y167SW&cid=910975869&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
